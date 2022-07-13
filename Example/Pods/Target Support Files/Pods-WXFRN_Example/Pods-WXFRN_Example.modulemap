@@ -1,0 +1,6 @@
+framework module Pods_WXFRN_Example {
+  umbrella header "Pods-WXFRN_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

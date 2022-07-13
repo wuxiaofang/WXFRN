@@ -1,0 +1,6 @@
+framework module Pods_WXFRN_Tests {
+  umbrella header "Pods-WXFRN_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

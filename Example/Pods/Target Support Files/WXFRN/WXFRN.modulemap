@@ -1,0 +1,6 @@
+framework module WXFRN {
+  umbrella header "WXFRN-umbrella.h"
+
+  export *
+  module * { export * }
+}

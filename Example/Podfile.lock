@@ -1,0 +1,16 @@
+PODS:
+  - WXFRN (0.1.0)
+
+DEPENDENCIES:
+  - WXFRN (from `../`)
+
+EXTERNAL SOURCES:
+  WXFRN:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WXFRN: 54aad4c29b7e3db7c8e343999b2ad52a536fe3d1
+
+PODFILE CHECKSUM: ffee6a65c1f65bdbdaad406e69b5a9a05a2b84c1
+
+COCOAPODS: 1.11.3
